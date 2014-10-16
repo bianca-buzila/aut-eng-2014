@@ -1,0 +1,2 @@
+tema-lab2: init first si last, addfirst, addlast, count, traversal, sort oricare si remove by key
+tema-lab3: exercitiul 4.6.1 sau 4.6.2 si 4.6.5
